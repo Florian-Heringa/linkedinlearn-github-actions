@@ -1,3 +1,5 @@
+Exercise repository for [Linkedin Learning - Practical GitHub Actions](https://github.com/LinkedInLearning/github-practical-actions-4412872)
+=====================================================
 # The Future in Tech
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
